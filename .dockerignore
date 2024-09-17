@@ -13,4 +13,3 @@ Dockerfile
 .dockerignore
 
 src/test/
-pom.xml
