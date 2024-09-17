@@ -11,10 +11,10 @@
     </parent>
 
     <groupId>work.mcdermott</groupId>
-    <artifactId>movie-picker</artifactId>
+    <artifactId>movie-picker-java</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>movie-picker</name>
-    <description>movie-picker</description>
+    <name>movie-picker-java</name>
+    <description>movie-picker-java</description>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>

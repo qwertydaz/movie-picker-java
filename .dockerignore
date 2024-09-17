@@ -1,0 +1,16 @@
+target/
+
+.mvn/
+mvnw
+mvnw.cmd
+
+.git/
+.gitignore
+
+.idea/
+
+Dockerfile
+.dockerignore
+
+src/test/
+pom.xml
