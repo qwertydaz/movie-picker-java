@@ -14,4 +14,6 @@ COPY src ./src
 
 RUN mvn -B -DskipTests clean package
 
+EXPOSE 8080
+
 CMD ["java", "-jar", "target/movie-picker-java-0.0.1-SNAPSHOT.jar"]
