@@ -14,4 +14,4 @@ COPY src ./src
 
 RUN mvn -B -DskipTests clean package
 
-CMD ["java", "-jar", "target/movie-picker-1.0-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/movie-picker-java-0.0.1-SNAPSHOT.jar"]
